@@ -26,6 +26,7 @@
         "auth_key": "str",
         "exit_node": "str?",
         "port": "int(0,65535)?",
+        "login_server": "str?",
         "hostname": "str?",
         "force_reauth": "bool?",
         "accept_routes": "bool?",
